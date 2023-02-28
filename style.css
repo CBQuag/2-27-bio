@@ -1,4 +1,17 @@
 body{
-    background-image: url("https://unsplash.it/500.500");
+    background-image: url("/Users/conradquagliaroli/Documents/Workspace/2-27-bio/Assets/T0569RDC6-U04H84A71J9-2312eb839ab7-512.jpeg");
     background-color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+.sitee{
+    background-color: white;
+    border: 3px black solid;
+    margin: auto 200px;
+}
+#reddit{
+    color: brown;
+}
+#framed{
+    border: 20px white solid;
 }
